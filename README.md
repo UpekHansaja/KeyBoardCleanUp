@@ -31,11 +31,15 @@ This lightweight web application solves this problem by capturing and neutralizi
 - **Mobile-Friendly**: Works on tablets and phones too (useful for external keyboards)
 - **No Installation**: Works directly in your browser with no downloads or setup
 
+
 ## 🚀 Getting Started
 
+`
 ### Method 1: Direct Access (Easiest)
 
-Visit the live version at: [https://upekhansaja.github.io/KeyboardCleanUp](https://upekhansaja.github.io/KeyboardCleanUp)
+Visit the live version at: [https://upekhansaja.github.io/KeyBoardCleanUp/](https://upekhansaja.github.io/KeyBoardCleanUp/)
+
+
 
 ### Method 2: Local Installation
 
