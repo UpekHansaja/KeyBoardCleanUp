@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keyboard Cleaning Mode</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="./keyboard.svg" type="image/x-icon">
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>Keyboard Cleaning Mode</h1>
+            <div class="status">
+                <div class="status-indicator active"></div>
+                <p>Keyboard inputs are being captured</p>
+            </div>
+            <div class="keyboard-image">
+                <img src="keyboard.svg" alt="Keyboard illustration">
+            </div>
+            <p class="instruction">You can now safely clean your keyboard.</p>
+            <p class="instruction">All keyboard inputs are disabled.</p>
+            <div class="key-display">
+                <p>Last key pressed: <span id="last-key">None</span></p>
+                <p>Keys captured: <span id="key-count">0</span></p>
+            </div>
+            <button id="exit-btn" class="exit-button">
+                Exit Cleaning Mode
+                <span class="tooltip">Click with mouse/touchpad to exit</span>
+            </button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="300px" viewBox="0 0 800 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MacBook Pro Keyboard</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect stroke="#4B5563" stroke-width="2" fill="#1F2937" x="10" y="10" width="780" height="280" rx="15"></rect>
+        
+        <!-- Function Row -->
+        <rect fill="#111827" x="30" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="75" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="120" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="165" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="210" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="255" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="300" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="345" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="390" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="435" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="480" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="525" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="570" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="615" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="660" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="705" y="30" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="750" y="30" width="35" height="35" rx="5"></rect>
+        
+        <!-- Number Row -->
+        <rect fill="#111827" x="30" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="75" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="120" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="165" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="210" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="255" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="300" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="345" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="390" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="435" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="480" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="525" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="570" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="615" y="75" width="70" height="35" rx="5"></rect>
+        <rect fill="#111827" x="695" y="75" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="740" y="75" width="35" height="35" rx="5"></rect>
+        
+        <!-- QWERTY Row -->
+        <rect fill="#111827" x="30" y="120" width="52.5" height="35" rx="5"></rect>
+        <rect fill="#111827" x="92.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="137.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="182.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="227.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="272.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="317.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="362.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="407.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="452.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="497.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="542.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="587.5" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="632.5" y="120" width="52.5" height="35" rx="5"></rect>
+        <rect fill="#111827" x="695" y="120" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="740" y="120" width="35" height="35" rx="5"></rect>
+        
+        <!-- ASDF Row -->
+        <rect fill="#111827" x="30" y="165" width="62.5" height="35" rx="5"></rect>
+        <rect fill="#111827" x="102.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="147.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="192.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="237.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="282.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="327.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="372.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="417.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="462.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="507.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="552.5" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="597.5" y="165" width="87.5" height="35" rx="5"></rect>
+        <rect fill="#111827" x="695" y="165" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="740" y="165" width="35" height="35" rx="5"></rect>
+        
+        <!-- ZXCV Row -->
+        <rect fill="#111827" x="30" y="210" width="82.5" height="35" rx="5"></rect>
+        <rect fill="#111827" x="122.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="167.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="212.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="257.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="302.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="347.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="392.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="437.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="482.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="527.5" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="572.5" y="210" width="62.5" height="35" rx="5"></rect>
+        <rect fill="#111827" x="695" y="210" width="35" height="80" rx="5"></rect>
+        <rect fill="#111827" x="645" y="210" width="35" height="35" rx="5"></rect>
+        <rect fill="#111827" x="740" y="210" width="35" height="35" rx="5"></rect>
+        
+        <!-- Space Bar Row -->
+        <rect fill="#111827" x="30" y="255" width="55" height="35" rx="5"></rect>
+        <rect fill="#111827" x="95" y="255" width="55" height="35" rx="5"></rect>
+        <rect fill="#111827" x="160" y="255" width="325" height="35" rx="5"></rect>
+        <rect fill="#111827" x="495" y="255" width="55" height="35" rx="5"></rect>
+        <rect fill="#111827" x="560" y="255" width="55" height="35" rx="5"></rect>
+        <rect fill="#111827" x="625" y="255" width="55" height="35" rx="5"></rect>
+        <rect fill="#111827" x="740" y="255" width="35" height="35" rx="5"></rect>
+    </g>
+</svg>
